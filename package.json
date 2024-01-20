@@ -2,7 +2,6 @@
   "name": "phani-dev",
   "version": "1.0.0",
   "description": "test proj",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -11,5 +10,13 @@
     "url": "(https://github.com/phani21g/swiggy.git)"
   },
   "author": "phani",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
 }
