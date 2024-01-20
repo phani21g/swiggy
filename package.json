@@ -1,0 +1,15 @@
+{
+  "name": "phani-dev",
+  "version": "1.0.0",
+  "description": "test proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/phani21g/swiggy.git)"
+  },
+  "author": "phani",
+  "license": "ISC"
+}
