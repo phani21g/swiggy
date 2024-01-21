@@ -5,7 +5,7 @@ const Header=()=>{
             <img src={require("../assets/logo.png")} id="logo"></img>
         </div>
         <div id="title">
-            <h1>FODDIE</h1>
+            <h1>BAKERY</h1>
         </div>
     </div>
     <div id="navbar">
