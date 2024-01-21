@@ -1,0 +1,45 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EEE3CB;
+}
+#banner{
+    display: flex;
+    justify-content:left;
+    width: 35%;
+    margin-left: 2%;
+}
+#icon{
+    width: 35%;
+}
+#logo{
+    width: 100%;
+}
+#title{
+    margin: auto 5%;
+    color: #7D5A50;
+    font-weight: 900;
+}
+#navbar{
+    width: 60%;
+    margin: auto 5%;
+}
+#list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-weight: 600;
+    font-size: 1.2em;
+    margin-right: 2%;
+    color: #8D7B68;
+    
+}
+#list >li{
+    border-bottom:3px solid transparent ;
+    font-weight: 700;
+}
+#list :hover{
+    color: #7D5A50;
+    transition: 200ms;
+    border-bottom:3px solid #7D5A50 ;  
+}
